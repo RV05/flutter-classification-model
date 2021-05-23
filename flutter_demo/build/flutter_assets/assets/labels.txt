@@ -1,0 +1,4 @@
+0 none
+1 first degree
+2 second degree
+3 third degree
